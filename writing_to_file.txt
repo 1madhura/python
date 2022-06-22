@@ -1,0 +1,3 @@
+this is the new file
+ if file does not exist it creates new one.
+ otherwise it is going to erase the data and add the new datathis information recently got appendedthis information recently got appendedthis information recently got appendedthis information recently got appended
